@@ -1,4 +1,4 @@
-package paquete3;
+package Paquet3;
 
 /**
  * Esta clase guarda información sobre los datos de una persona
